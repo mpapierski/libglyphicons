@@ -1,2 +1,2 @@
 
-char ** glyphicons[];
+extern char ** glyphicons[];

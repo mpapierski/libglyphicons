@@ -839,5 +839,6 @@ char ** glyphicons[] = {
 	glyphicons_416_last_fm,
 	glyphicons_417_rss,
 	glyphicons_418_skype,
-	glyphicons_419_e_mail
+	glyphicons_419_e_mail,
+	(char**)0
 };

@@ -41,3 +41,6 @@ ADD_LIBRARY (glyphicons
 )
 
 ADD_DEPENDENCIES (glyphicons make_glyphicons_xpm)
+
+ENABLE_TESTING ()
+ADD_SUBDIRECTORY (tests)
