@@ -23,8 +23,8 @@ FLTK (1.3.x)
 TODO
 ====
 
-- [ ] Generate glue code using CMake.
-- [ ] Save icon names in glue code.
+- Generate glue code using CMake.
+- Save icon names in glue code.
 
 License
 =======
